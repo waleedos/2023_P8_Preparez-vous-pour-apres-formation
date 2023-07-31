@@ -2,106 +2,34 @@
 ![](https://github.com/waleedos/2023_P8_Preparez-vous-pour-apres-formation/blob/main/image.png)
 
 ## Compétences évaluées :
-- Interagir avec une API REST.
-- Développer la partie Front-End d’une application avec HTML, CSS et JavaScript.
+- Se préparer pour l’après-formation
 
 ## Présentation du projet :
-Le but de ce projet est de créer un site web de référencement de films de cinémas. Le but de ce site est de donner différentes informations sur plus ou moins 85000 films. Les informations comprennent le titre du film , son image, un résumé , son classement IMDB etc..
+Le but de ce projet est de passer un test pour évaluer vos connaissances et évaluations totale en langage Python pour cette première partie de la formation.
 
-Ce site a pour but d'aider les cinéphiles lors de l'achat de dvd ou choix de programmes télé; Il est développé en html ,css et javascript( vanilla javascript); Et doit fonctionner sous Edge, Firefox et Chrome.
+## Mission :
+Félicitations, vous venez de terminer la première partie du parcours Développeur d’application Python ! Vous maîtrisez à présent des compétences techniques telles que : 
 
-## Composition du projet :
-Tous les fichiers nécessaires pour faire fonctionner le site se trouvent dans le répertoire /frontend.
+- Gérer des données avec des scripts Python ;
+- Analyser des besoins client pour planifier un projet ;
+- Utiliser des modèles de conception et des bonnes pratiques pour écrire un programme Python ;
+- Iimplémenter une interface utilisateur dynamique ;
+- Ecrire des algorithmes.
 
-Ces fichiers sont :
-- index.html .
-- style.css . 
-- main.js .
-- et un répertoire /img qui contient les images du site comme le logo et les flèches.
+Dans la prochaine partie de votre parcours de formation, vous allez développer d’autres compétences techniques. Vous travaillerez également sur votre posture professionnelle. Vous devez vous préparer dès maintenant et avant la fin de votre parcours OpenClassrooms, quel que soit votre projet professionnel à l’issue de votre formation :  
 
-## Lancement du site en 4 étapes:
-Afin de pouvoir lancer et tester ce projet vous devriez passer par ces 4 étapes : 
+- Continuer à vous former ;
+- Cchercher un travail ;
+- Continuer sur votre poste actuel ;
+- Ou vous lancer dans une activité entrepreneuriale.
 
-### 1- Création d'un répertoire vide :
-Quelque part sur votre ordinateur, créez un répertoire vide et nommez le 'JustStreamIt'
-```
-mkdir JustStreamIt
-```
-Puis, rendez vous dans ce répertoire créé :
-```
-cd JustStreamIt
-```
+Ce projet “point d’étape” va vous aider à préparer votre projet professionnel. Les outils que vous allez mettre en place dès maintenant vous seront utiles tout au long de la deuxième partie de formation. Profitez au maximum de ce projet pour prendre du recul par rapport à vos projets de code, et prendre le temps de penser à “l’après-formation”.
 
-### 2- Clonage du projet :
-```
-git clone https://github.com/waleedos/2023_P6_JustStreamIt.git
-```
-Puis mettez vous dans la racine du projet : 
-```
-cd 2023_P6_JustStreamIt
-```
-### 3- Construisez votre API dans le répertoire /backend
-```
-cd backend
-```
-Puis créer un environnement virtuel :
-```
-python -m venv env
-```
-Puis activez votre environnement virtuel :
-```
-source env/bin/activate
-```
-Puis installer les dependances du projet :
-```
-pip install -r requirements.txt
-```
-Puis Créez et « populez » la base de donnée du projet :
-```
-python manage.py create_db
-```
-Et enfin, démarrez le serveur avec : 
-```
-python manage.py runserver
-```
 
-### 4- Démarrez le projet :
-Ouvrez le fichier index.html se trouvant dans le dossier /frontend avec n'importe quel navigateur installé sur votre machine.
+## Préparez-vous tout au long du parcours:
+Gardez en mémoire que ce projet est là pour vous soutenir dans votre projet professionnel. C’est une bonne opportunité pour vous d’initier ce travail avec un mentor professionnel plutôt que de le faire tout seul en recherche d’emploi. Vous serez content de pouvoir vous appuyer sur ce portfolio à l’avenir.
 
-### Présentation du site
-Sur l'interface de ce projet, les sections sont:
+Nous vous invitons à compléter vos livrables tout au long de votre parcours. Quand vous écrirez du code sur vos prochains projets, n’hésitez pas à l’ajouter à votre portfolio GitHub. Si vous découvrez une ressource ou un outil intéressant, ajoutez-le à votre veille. Après chaque validation de projet, assurez-vous de mettre à jour votre veille et votre portfolio GitHub.
 
-    -   Le meilleur film
-        - Un bouton "plus d'infos" pour avoir un descriptif complet du film.
-        - Un bouton pour fermer ce descriptif ouvert. 
-
-    -   Section des 7 meilleurs films "Classement Global".
-
-    -   1 section avec les 7 meilleurs films pour la catégorie Crime.
-    -   1 section avec les 7 meilleurs films pour la catégorie Drame.
-    -   1 section avec les 7 meilleurs films pour la catégorie Famille.
-    -   1 section avec les 7 meilleurs films pour la catégorie Sport.
-
-    -   Sur chaque image de chaque film un clic est possible pour ouvrir une fenêtre modale avec un descriptif     complet du film
-    - Par défaut, dans chaque section, l'utilisateur trouve 5 films, et il doit cliquer sur une petite fleche à droite pour voir les deux autres films clic par clic
-    - Une foi la flèche de droite cliquée, l'utilisateur peut retourner en arrière avec une autre flèche à gauche.
-
-Bonne navigation...
-
-## Validation HTML et CSS
-
-Résultat de la validation du HTML sur le site du W3C    - OK
-
-Résultat de la validation du CSS sur le site du W3C     - OK
-
-Félicitations ! Aucune erreur trouvée.
-
-## API Utilisée :
-* Il utilise une API REST: OCMovies-API-EN-FR développée par OpenClassrooms
-
-## Pour la vérification :
-* Concernant l'installation de l'API, suivez les instructions données dans le repository Guthub :
-[dépôt de OCMovies-API-EN-FR](https://github.com/OpenClassrooms-Student-Center/OCMovies-API-EN-FR)
-* Testé sur les navigateurs Edge, Chrome et Firefox
-* L'API tourne par défaut sur le port 8000
+Préparez-vous dès à présent à l’après-formation et à votre entrée dans le monde du travail comme développeur Python !
 
