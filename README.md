@@ -1,5 +1,5 @@
-# Projet 8 OpenClassRoom : Préparez-vous pour l’après-formation
-![](/frontend/img/juststreamit-1.png)
+## Projet 8 OpenClassRoom : Préparez-vous pour l’après-formation
+![](https://github.com/waleedos/2023_P8_Preparez-vous-pour-apres-formation/blob/main/image.png)
 
 ## Compétences évaluées :
 - Interagir avec une API REST.
